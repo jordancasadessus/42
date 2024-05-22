@@ -1,7 +1,7 @@
 # Welcome to my GitHub
 
 Here are the projects I did at school 42 that I enjoyed the most and on which I invested the most time and effort.
-
+They were done in major collaboration with [Paloouf](https://github.com/Paloouf).
 
 ## [FdF](https://github.com/jordancasadessus/fdf)
 This project was my first encounter with graphic projects. The goal was to retrieve a text file containing altitudes and colors, then display the result in 3D wireframe.
