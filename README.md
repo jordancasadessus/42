@@ -19,8 +19,9 @@ The goal of this project was to introduce us to 3D, particularly raycasting. The
 We added features such as sprites representing enemies with basic AI, an objective to reach, a menu with difficulty selection, and a game over screen.
 This is the project we enjoyed working on and investing ourselves in the most.
 <div align="center">
-  <img src="https://github.com/Paloouf/Cub3D/blob/master/cubedd.gif" alt="Minotaur chasing">
+  <img src="https://github.com/Paloouf/Paloouf/raw/main/Pong.png" alt="3D Pong">
 </div>
+
 [Ft_irc](https://github.com/Paloouf/ft_irc)
 This was our first major project in C++. We had to create a server that strictly adhered to the IRC protocol, then add a bot.
 
